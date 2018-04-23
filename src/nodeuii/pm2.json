@@ -1,0 +1,9 @@
+{
+    "name"      : "ydapp",
+    "script"    : "app.js",
+    "out_file" : "logs/pm2/out.log",
+    "error_file" : "logs/pm2/error.log",
+    "instances"  : "1",
+    "exec_mode"  : "cluster",
+    "watch":true
+}

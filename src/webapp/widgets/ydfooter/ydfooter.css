@@ -1,0 +1,8 @@
+:root{
+    --mainColor:yellowgreen;
+}
+.widgets-ydfooter{
+    
+    height: 150px;
+    background: var(--mainColor);
+}
